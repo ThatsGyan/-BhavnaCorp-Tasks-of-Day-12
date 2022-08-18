@@ -1,0 +1,10 @@
+#Container1 {
+
+    display: flex;
+    align-items: center;
+}
+
+.bgimg{
+    width: 50%;
+    height: 50%;
+}
